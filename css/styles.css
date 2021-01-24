@@ -2,7 +2,7 @@ h1 {
   text-align: center;
   color: teal;
 }
-
+/* -----------------03---------------- */
 #gallery {
   display: flex;
   list-style: none;
@@ -10,13 +10,14 @@ h1 {
 
 #gallery li {
   width: 30%;
-  margin-right: 1%;
+  margin-right: 10px;
 }
 
 #gallery img {
   width: 100%;
-  height: auto;
+  height: 100%;
 }
+/* -----------------06---------------- */
 
 #validation-input {
   border: 3px solid #bdbdbd;
